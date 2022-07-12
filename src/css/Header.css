@@ -1,0 +1,75 @@
+.Header {
+  justify-content: space-between;
+}
+.Logo {
+  margin-top: 30px;
+  margin-left: 56px;
+  width: 120px;
+  cursor: pointer;
+}
+.Lupa {
+  margin-right: 200px;
+}
+.container {
+  justify-content: space-between;
+}
+.right-section {
+  display: flex;
+  position: relative;
+  top: -40px;
+  justify-content: right;
+}
+.number {
+  font-size: 21px;
+  position: relative;
+  left: -200px;
+  margin-left: 18px;
+  width: 189px;
+  height: 23px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 7px;
+}
+.twitter,
+.vk,
+.instagram,
+.facebook {
+  width: 40.43px;
+  height: 40px;
+  margin-left: 8px;
+}
+.twitter {
+  margin-right: 56px;
+}
+@media only screen and (max-width: 414px) {
+  .Logo {
+    position: relative;
+    right: 34px;
+    width: 81px;
+    height: 15px;
+  }
+  .right-section {
+    position: relative;
+    right: -10rem;
+  }
+  .Lupa {
+    display: none;
+  }
+  .number {
+    position: relative;
+    left: -146px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    top: 5px;
+  }
+ 
+  .vk,
+  .facebook,
+  .instagram,
+  .twitter {
+    display: none;
+  }
+}

@@ -1,0 +1,467 @@
+.text {
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+}
+.ellipse {
+  position: relative;
+  top: -87px;
+  right: -1080px;
+  margin-left: 8px;
+}
+.red-block{
+    
+    
+  background-color: #e0462d;
+
+}
+.block-1,.block-2,.block-3{
+  position: relative;
+  top: 480px;
+}
+.text2 {
+  position: relative;
+  right: -715px;
+  font-weight: 400;
+  font-size: 16px;
+  width: 434px;
+  height: 68px;
+  top: -70px;
+}
+.second-main {
+  background-color: #e0462d;
+  width: 1490px;
+  
+  height: 665px;
+  margin-left: 150px;
+  background-image: url('../images/car.png');
+}
+.input1,
+.input2 {
+  position: relative;
+  width: 397px;
+  height: 53px;
+  top: 200px;
+  border: 2px solid rgba(224, 70, 45, 0.75);
+  backdrop-filter: blur(11px);
+  background-color: transparent;
+}
+.input1 {
+  position: relative;
+  right: -550px;
+  color: #ffffff;
+  font-size: 19px;
+}
+.h2-4 {
+  position: relative;
+  top: -38.5rem;
+  right: -35.5rem;
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  width: 246px;
+}
+.input2 {
+  position: relative;
+  top: 270px;
+  color: #ffffff;
+  right: -145px;
+  font-size: 19px;
+}
+.p2 {
+  width: 200px;
+  height: 50px;
+  position: relative;
+  top: -39rem;
+  right: -35.5rem;
+  color: #ffffff;
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+}
+::-webkit-input-placeholder {
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+  right: -15px;
+  height: 30px;
+  font-size: 20px;
+}
+.third-main {
+  margin-top: 100px;
+  display: flex;
+  background-color: #e0462d;
+  width: 1800px;
+  height: 395px;
+  color: #ffffff;
+  overflow: hidden;
+}
+.h1-2 {
+  position: relative;
+  top: 3rem;
+  margin-top: -350px;
+  margin-left: 56px;
+  font-family: 'Jost';
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+}
+.h2-1 {
+  position: relative;
+  top: -37.5rem;
+  color: #ffffff;
+  right: -20rem;
+  margin-top: 102px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 246px;
+}
+.h2-2 {
+  margin-top: 135px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+
+  position: relative;
+  margin-left: 200px;
+  right: 80px;
+}
+.line {
+  border-bottom: 3px solid #ffffff;
+  width: 246px;
+  height: 2px;
+  position: relative;
+  right: -35.5rem;
+  top: -38rem;
+}
+.h2-3 {
+  margin-top: 135px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 300px;
+  position: relative;
+  top: 2px;
+}
+.button {
+  background-color: #e0462d;
+  position: relative;
+  top: 390px;
+  width: 405px;
+  height: 60px;
+  color: #ffffff;
+  border: none;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  right: 260px;
+}
+.line1 {
+  border-bottom: 3px solid #ffffff;
+  width: 346px;
+  height: 2px;
+  position: relative;
+  right: 112px;
+  top: 190px;
+}
+.h2-5 {
+  position: relative;
+  right: 120px;
+  top: 190px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  width: 145px;
+}
+.h1 {
+  position: relative;
+  top: 170px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+}
+.line-nav2 {
+  border-bottom: 3px solid #ffffff;
+  width: 246px;
+  height: 2px;
+  position: relative;
+  right: -85rem;
+  top: -35.6rem;
+}
+.navmenu-h2 {
+  color: #ffffff;
+  width: 40px;
+  height: 30px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  position: relative;
+  right: -59rem;
+  top: -19.5rem;
+}
+.line-nav {
+  border-bottom: 3px solid #ffffff;
+  width: 296px;
+  height: 2px;
+  position: relative;
+  right: -59rem;
+  top: -19.4rem;
+}
+.navmenu-h3 {
+  position: relative;
+  right: -59rem;
+  top: -19.5rem;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  color: #ffffff;
+}
+.navmenu-p {
+  position: relative;
+  right: -59rem;
+  top: -20rem;
+  width: 290px;
+  height: 84px;
+  color: #ffffff;
+}
+.navmenu-h32 {
+  position: relative;
+  right: -85rem;
+  top: -34.9rem;
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+}
+.nav3 {
+  position: relative;
+  right: -85rem;
+  top: -34.9rem;
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+}
+.navmenu-h4 {
+  position: relative;
+  right: -85rem;
+  top: -35.5rem;
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.navmenu-p2 {
+  position: relative;
+  right: -85rem;
+  top: -36rem;
+  width: 233px;
+  height: 63px;
+  color: #ffffff;
+}
+@media only screen and (max-width: 414px) {
+  .ellipse {
+    position: relative;
+    right: -17.3rem;
+    top: -87px;
+  }
+  
+  .h2-1 {
+    position: relative;
+    right: 14rem;
+    top: -52.5rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 100%;
+  }
+  .p2 {
+    position: relative;
+    top: -54rem;
+    width: 242.27px;
+    right: -1.7rem;
+    height: 54px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+  }
+  .text2 {
+    position: relative;
+    top: -80px;
+    right: -1rem;
+    width: 322px;
+  }
+
+  .text {
+    font-size: 50px;
+    position: relative;
+    right: 2.8rem;
+    top: -20px;
+  }
+  .second-main {
+    width: 357px;
+    height: 482px;
+    background-image: url('../images/mashina.png');
+    position: relative;
+    right: 10rem;
+  }
+  .h1 {
+    width: 396px;
+    height: 10px;
+    font-size: 35px;
+    position: relative;
+    top: 6rem;
+    right: 10px;
+  }
+  .input1 {
+    width: 300px;
+    height: 53px;
+    position: relative;
+    top: 10rem;
+    right: -2rem;
+  }
+  .input2 {
+    width: 300px;
+    height: 53px;
+    position: relative;
+    right: -2rem;
+    top: 11rem;
+  }
+  .button {
+    width: 310px;
+    height: 53px;
+    position: relative;
+    top: 14rem;
+    right: -2rem;
+  }
+  .third-main {
+    width: 361px;
+    height: 690px;
+  }
+  .line {
+    position: relative;
+    right: -1.5rem;
+    top: -53rem;
+    width: 300px;
+    height: 5px;
+    border-bottom: 2px solid #ffffff;
+  }
+  .h2-4 {
+    position: relative;
+    top: -54rem;
+    left: 1.5rem;
+  }
+  .line-nav2 {
+    position: relative;
+    right: -1.5rem;
+    top: -499px;
+
+  }
+  .line-nav,
+  .line-nav2 {
+    width: 300px;
+    height: 2px;
+    border-bottom: 3px solid #ffffff;
+  }
+  .navmenu-h4 {
+    position: relative;
+    right: -1.5rem;
+    top: -505px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .navmenu-p2{
+      position: relative;
+      right: -1.5rem;
+      top: -32rem;
+      font-family: 'Gotham Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+}
+  .h1-2 {
+    position: relative;
+    top: -49rem;
+    right: 37px;
+    width: 619px !important;
+    height: 35px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+  }
+  .navmenu-h2 {
+    position: relative;
+    top: -28rem;
+    right: -1.5rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+  }
+  .line-nav {
+    top: -28.5rem;
+    position: relative;
+    right: -1.5rem;
+    width: 300px;
+  }
+  .navmenu-h3 {
+    position: relative;
+    right: -1.5rem;
+    top: -29rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .navmenu-p {
+    position: relative;
+    right: -1.5rem;
+    top: -29rem;
+    line-height: 130%;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .nav3 {
+    position: relative;
+    right: -1.5rem;
+    top: -30rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+  }
+}

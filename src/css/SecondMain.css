@@ -1,0 +1,563 @@
+.main-h1 {
+  margin-top: 118px;
+  margin-left: 56px;
+  font-weight: 500;
+  font-size: 45px;
+  width: 485px;
+  height: 90px;
+}
+.ul {
+  width: 346px;
+  height: 282px;
+  background: #eff0f3;
+  box-shadow: 2px 4px 5px #e3e3e3;
+  border-radius: 10px;
+  position: relative;
+  right: -40rem;
+  top: -6rem;
+}
+.h3-main {
+  position: relative;
+  top: 79.9px;
+  right: -60px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+}
+.car-photo {
+  position: relative;
+  top: -200px;
+}
+
+.p4-main {
+  position: relative;
+  top: 5rem;
+  width: 289px;
+  right: -19px;
+  height: 63px;
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
+.ul3 {
+  width: 346px;
+  height: 282px;
+  background: #eff0f3;
+  box-shadow: 2px 4px 5px #e3e3e3;
+  border-radius: 10px;
+  position: relative;
+  right: -90rem;
+  top: -43.6rem;
+  margin-right: 10px;
+}
+.h5-main {
+  position: relative;
+  top: 5.5rem;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 100%;
+  right: -60px;
+}
+
+.ul3::before {
+  counter-increment: ul3;
+}
+.p3-main {
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  width: 249px;
+  height: 63px;
+  text-align: center;
+  position: relative;
+  top: 6rem;
+}
+.ul2 {
+  width: 346px;
+  height: 282px;
+  background: #eff0f3;
+  box-shadow: 2px 4px 5px #e3e3e3;
+  border-radius: 10px;
+  position: relative;
+  right: -65rem;
+  top: -24.8rem;
+}
+.h2-main {
+  width: 211px;
+  height: 22px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  position: relative;
+  top: 73px;
+  right: -55px;
+}
+.p2-main {
+  position: relative;
+  top: 89px;
+  width: 290px;
+  height: 84px;
+  font-family: 'Gotham Pro';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+}
+.h1-main {
+  width: 110px;
+  height: 100px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100px;
+  color: transparent;
+  -webkit-text-stroke: 2px #e0462d;
+  position: relative;
+  right: -5.6rem;
+  top: 37px;
+}
+
+.d2,
+.d3,
+.d4,
+.d5,
+.d6,
+.d7 {
+  position: relative;
+  top: -40rem;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  margin-top: 35px;
+  right: -4rem;
+  color: #a0a0a0;
+}
+:hover.d2,
+:hover.d3,
+:hover.d4,
+:hover.d5,
+:hover.d6,
+:hover.d7 {
+  color: #181818;
+  transition: 0.4s;
+}
+.d-p4,
+.d-p5,
+.d-p6,
+.d-p7,
+.d-p8,
+.d-p9 {
+  position: relative;
+  color: #a0a0a0;
+  font-family: 'Gotham Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  right: -76rem;
+  margin-top: 64px;
+}
+.arrow-1 {
+  cursor: pointer;
+  position: relative;
+  width: 38.38px;
+  height: 1px;
+
+  right: -106.4rem;
+  top: -70px;
+}
+
+.arrow-1 div {
+  position: relative;
+  top: -24px;
+  width: 38px;
+  height: 1px;
+  right: -14px;
+  background-color: #a0a0a0;
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+
+  display: block;
+}
+.arrow-2 {
+  cursor: pointer;
+  position: relative;
+  width: 38.38px;
+  height: 1px;
+
+  right: -101.4rem;
+  top: -98px;
+}
+.arrow-2 div {
+  position: relative;
+  top: -34px;
+  width: 38px;
+  height: 1px;
+  right: -14px;
+  background-color: #a0a0a0;
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+
+  display: block;
+}
+.arrow-2 div::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: -3px;
+  right: 34px;
+  background-color: #a0a0a0;
+  transform: rotate(-45deg);
+}
+.arrow-2 div::before {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: 1px;
+  right: 34px;
+  background-color: #a0a0a0;
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+  transform: rotate(45deg);
+}
+.krug2 {
+  cursor: pointer;
+  width: 65px;
+  height: 35px;
+  border: 1px solid #a0a0a0;
+  border-radius: 900px;
+  position: relative;
+  right: -101.5rem;
+  top: -7rem;
+}
+.arrow-1 div::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: -3px;
+  right: -1px;
+  background-color: #a0a0a0;
+  transform: rotate(45deg);
+}
+.arrow-1 div::before {
+  content: '';
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: 2px;
+  right: -1px;
+  background-color: #a0a0a0;
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+  transform: rotate(-45deg);
+}
+:hover.arrow-1 div,
+:hover.arrow-2 div::before {
+  background-color: #181818;
+}
+:hover.arrow-1 div,
+:hover.arrow-2 div::after {
+  background-color: #181818;
+}
+:hover.arrow-1 div,
+:hover.arrow-2 div {
+  background-color: #181818;
+}
+:hover.krug,
+:hover.krug2 {
+  border: 1px solid #181818;
+}
+.krug {
+  cursor: pointer;
+  width: 65px;
+  height: 35px;
+  border: 1px solid #a0a0a0;
+  border-radius: 900px;
+  position: relative;
+  right: -106.3rem;
+  top: -4.6rem;
+}
+.img10 {
+  position: relative;
+  right: -20rem;
+  cursor: pointer;
+}
+:hover.d-p4,
+:hover.d-p5,
+:hover.d-p6,
+:hover.d-p7,
+:hover.d-p8,
+:hover.d-p9 {
+  color: #181818;
+  transition: 0.4s;
+}
+.d-p4 {
+  position: relative;
+  top: -74rem;
+  width: 486px;
+  height: 34px;
+}
+.d-p5 {
+  position: relative;
+  top: -74.7rem;
+}
+.d-p6 {
+  position: relative;
+  top: -73.6rem;
+}
+.d-p7 {
+  position: relative;
+  top: -73.5rem;
+  width: 486px;
+  height: 34px;
+}
+.d-p8 {
+  position: relative;
+  top: -73.8rem;
+  width: 486px;
+  height: 34px;
+}
+.d-p9 {
+  position: relative;
+  top: -74rem;
+  width: 486px;
+  height: 34px;
+}
+
+.d3 {
+  width: 188px;
+  height: 20px;
+}
+.d-line2,
+.d-line3,
+.d-line4,
+.d-line5,
+.d-line6,
+.d-line7 {
+  border-bottom: 1px solid #e0462d;
+  position: relative;
+  top: -40rem;
+}
+.d-image {
+  position: relative;
+  right: -39rem;
+  top: -6rem;
+  width: 580px;
+  height: 790px;
+  z-index: 10;
+}
+.d1 {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  width: 425px;
+  height: 90px;
+  margin-left: 56px;
+  margin-top: -240px;
+}
+.h9-main {
+  width: 110px;
+  height: 100px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100px;
+  color: transparent;
+  -webkit-text-stroke: 2px #e0462d;
+  position: relative;
+  right: -5.6rem;
+  top: 58px;
+}
+.h4-main {
+  width: 110px;
+  height: 100px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100px;
+  color: transparent;
+  -webkit-text-stroke: 2px #e0462d;
+  position: relative;
+  right: -5.6rem;
+  top: 42px;
+}
+.plus{
+  display: none;
+}
+.container1 {
+  margin-top: 20px;
+}
+@media only screen and (max-width: 414px) {
+  .main-h1 {
+    width: 300px;
+    height: 70px;
+    position: relative;
+    right: 40px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 100%;
+  }
+  .krug2,
+  .arrow-2 {
+    position: relative;
+    right: -1rem;
+    top: -19px;
+  }
+  .arrow-1,
+  .krug {
+    position: relative;
+    right: -6rem;
+    top: 18px;
+  }
+  .arrow-2 {
+    position: relative;
+    top: -5px;
+  }
+  .plus{
+    position: relative;
+    right: -21rem;
+    top: -41rem;
+    display: block;
+
+  }
+  .arrow-1 {
+    position: relative;
+    top: 23px;
+  }
+  .ul,
+  .ul2,
+  .ul3 {
+    width: 255px;
+    height: 208px;
+  }
+  .ul2 {
+    position: relative;
+    right: -21rem;
+    top: -13.5rem;
+  }
+  .ul {
+    position: relative;
+    right: -1rem;
+    top: 0.5rem;
+  }
+  .d1 {
+    top: -39rem;
+    right: 2.5rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 100%;
+    width: 305px;
+    height: 70px;
+    position: relative;
+  }
+  
+  .d2,
+  .d3,
+  .d4,
+  .d5,
+  .d6,
+  .d7 {
+    position: relative;
+    right: -10px;
+    top: -39rem;
+  }
+  .d-line2,
+  .d-line3,
+  .d-line4,
+  .d-line5,
+  .d-line6,
+  .d-line7 {
+    width: 350px;
+    position: relative;
+    right: -10px;
+    height: 1px;
+  }
+  .h2-main,
+  .h3-main {
+    position: relative;
+    top: 40px;
+    right: -10px;
+  }
+  .car-photo {
+    margin-top: 759px;
+  }
+  .d-p4,
+  .d-p5,
+  .d-p6,
+  .d-p7,
+  .d-p8,
+  .d-p9 {
+    display: none;
+  }
+
+  .h5-main {
+    position: relative;
+    top: 40px;
+    right: -30px;
+  }
+  .ul3 {
+    position: relative;
+    right: -41rem;
+    top: -27.5rem;
+  }
+  .p3-main {
+    width: 226px;
+    height: 63px;
+    position: relative;
+    top: 56px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    text-align: center;
+  }
+  .p2-main,
+  .p4-main {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    text-align: center;
+    width: 220px;
+    height: 72px;
+    position: relative;
+    top: 45px;
+    right: -10px;
+  }
+  .h1-main,
+  .h4-main,
+  .h9-main {
+    width: 55px;
+    height: 50px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 100%;
+  }
+  .h9-main {
+    position: relative;
+    top: 50px;
+  }
+  .h4-main {
+    position: relative;
+    top: 30px;
+  }
+  .d-image {
+    display: none;
+  }
+}

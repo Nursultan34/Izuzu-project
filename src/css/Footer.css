@@ -1,0 +1,203 @@
+.footer {
+  background-color: #181818;
+  width: 1800px;
+  height: 410px;
+}
+.h3-footer {
+  color: #e0462d;
+  width: 460.9px;
+  height: 120px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  position: relative;
+  font-size: 20px;
+  line-height: 120%;
+  top: 0rem;
+  right: -2px;
+}
+.h2-footer {
+  color: #a0a0a0;
+  width: 490.9px;
+  height: 120px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 120%;
+  position: relative;
+  margin-left: 100px;
+  top: 4rem;
+}
+.input-footer,
+.input-footer2 {
+  border: 2px solid rgba(224, 70, 45, 0.75);
+  backdrop-filter: blur(11px);
+  background-color: transparent;
+  width: 429px;
+  height: 54px;
+}
+.input-footer {
+  position: relative;
+  right: -15.8rem;
+  top: -3.6rem;
+  color: #a0a0a0;
+  font-size: 19px;
+}
+
+.input-footer2 {
+  position: relative;
+  right: -43.1rem;
+  top: 1rem;
+  font-size: 19px;
+  color: #a0a0a0;
+}
+input[type='text']::-webkit-input-placeholder {
+  color: #a0a0a0;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+  right: -15px;
+  height: 30px;
+  font-size: 20px;
+}
+.contact-number {
+  color: #a0a0a0;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  position: relative;
+  right: -74.9rem;
+  top: -12rem;
+}
+.logo-footer {
+  position: relative;
+  right: -75rem;
+  top: -57px;
+}
+.footer-text {
+  color: #e0462d;
+
+  font-family: 'Jost';
+  font-style: normal;
+  position: relative;
+  right: -75rem;
+  top: -10rem;
+  font-weight: 500;
+  font-size: 20px;
+}
+.contact {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #e0462d;
+  position: relative;
+  right: -75rem;
+  top: -12rem;
+}
+.h1-footer {
+  color: #e0462d;
+  position: relative;
+  right: -43.2rem;
+  top: -5rem;
+  width: 180px;
+  height: 25px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+.footer-button {
+  background-color: #e0462d;
+  position: relative;
+  top: 7rem;
+  width: 439px;
+  height: 60px;
+  color: #ffffff;
+  border: none;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  right: 185px;
+  cursor: pointer;
+}
+.Logo3 {
+  display: none;
+}
+@media only screen and (max-width: 414px) {
+  .footer {
+    width: 320px;
+    height: 604px;
+    margin-top: -100px;
+  }
+  .h2-footer {
+    display: none;
+  }
+  .Logo3 {
+    display: inline;
+    width: 154px;
+    height: 29px;
+    margin: 45px 83px;
+  }
+  .h1-footer {
+    position: relative;
+    top: -1rem;
+    right: -1rem;
+  }
+  .input-footer,
+  .input-footer2 {
+    width: 290px;
+    height: 45px;
+  }
+  .input-footer2 {
+    position: relative;
+    top: 1rem;
+    right: -1rem;
+  }
+  .input-footer {
+    position: relative;
+    top: 1.4rem;
+    right: -1rem;
+  }
+  .footer-button {
+    top: 3.4rem;
+    width: 300px;
+    position: relative;
+    right: -1rem;
+    height: 50px;
+  }
+  .contact {
+    position: relative;
+    right: -1rem;
+    top: 4rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .contact-number {
+    position: relative;
+    right: -1rem;
+    top: 3rem;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .footer-text {
+    position: relative;
+    top: 0rem;
+    right: -1rem;
+  }
+  .logo-footer {
+    position: relative;
+    top: 6rem;
+    right: -1rem;
+    width: 209.74px;
+    height: 40px;
+  }
+}

@@ -1,0 +1,657 @@
+.container2 {
+  width: 1820px;
+  height: 1916px;
+  background: #e0462d;
+  margin-top: -350px;
+}
+.h12 {
+  color: #fff;
+  width: 296px;
+  height: 90px;
+  margin-left: 56px;
+  position: relative;
+  top: 40px;
+}
+.car-section7 {
+  background: #ffffff;
+  width: 486px;
+  height: 556px;
+  position: relative;
+  right: -3.8rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+  bottom: 168rem;
+}
+
+.car-section8 {
+  background: #ffffff;
+  width: 486px;
+  height: 483px;
+  position: relative;
+  right: -3.8rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+  bottom: 167rem;
+}
+.car-section1 {
+  background: #ffffff;
+  width: 486px;
+  height: 556px;
+  position: relative;
+  right: -35rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+}
+.seltos-h1-6,
+.seltos-h1-7 {
+  position: relative;
+  top: 50px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43px;
+  margin-left: 25px;
+  color: #e0462d;
+}
+
+.seltos-h2-4,
+.seltos-h2-8 {
+  top: -24px;
+  position: relative;
+  right: -20rem;
+  text-decoration: line-through #e0462d;
+}
+.car-section5 {
+  background: #ffffff;
+  width: 486px;
+  height: 556px;
+  position: relative;
+  right: -35rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+  top: -94.8rem;
+}
+.seltos {
+  margin-top: 106px;
+  margin-left: 31px;
+}
+.seltos-h1 {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  margin-left: 30px;
+}
+.seltos-p1 {
+  margin-left: 30px;
+  position: relative;
+  top: -15px;
+}
+.seltos-h23-3 {
+  width: 222px;
+  height: 25px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 100%;
+  margin-top: 90px;
+  margin-left: 30px;
+}
+.seltos2 {
+  position: relative;
+  top: -2rem;
+}
+.seltos-p1-4 {
+  position: relative;
+  width: 261px;
+  height: 28px;
+}
+.seltos-p1-5 {
+  position: relative;
+  width: 263px;
+  top: 6rem;
+  margin-left: 26px;
+  height: 28px;
+}
+.seltos-h1-1 {
+  color: #e0462d;
+  margin-left: 30px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 45px;
+  position: relative;
+  top: -17px;
+}
+.seltos2,
+.seltos3,
+.seltos4,
+.seltos5,
+.seltos6 {
+  position: relative;
+  top: 71px;
+  right: -40px;
+}
+.seltos-p4-2 {
+  position: relative;
+  top: -5.2rem;
+  right: -25rem;
+}
+
+.seltos-h1-10 {
+  color: #e0462d;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  position: relative;
+  top: -2rem;
+  right: -2rem;
+  font-size: 40px;
+}
+.seltos-p3-2 {
+  margin-left: 30px;
+ 
+  font-weight: 400;
+  font-size: 16px;
+}
+.seltos-h2 {
+  position: relative;
+  top: -91px;
+  right: -275px;
+  text-decoration: line-through #e0462d;
+  margin-left: 30px;
+  width: 150px;
+  height: 2px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+.seltos-h1-2 {
+  color: #e0462d;
+  position: relative;
+  top: 36px;
+  margin-left: 26px;
+  font-weight: 500;
+  font-size: 40px;
+}
+.seltos-h23,
+.seltos-h1-5 {
+  position: relative;
+  top: 104px;
+  margin-left: 25px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+}
+.seltos-p3,
+.seltos-p1-4 {
+  position: relative;
+  top: 93px;
+  margin-left: 25px;
+}
+.seltos-p4,
+.seltos-p2-4 {
+  position: relative;
+  right: -25rem;
+  top: 9px;
+}
+.seltos9 {
+  position: relative;
+  right: -25px;
+  top: 70px;
+}
+.seltos-h3 {
+  position: relative;
+  text-decoration: line-through #e0462d;
+  right: -21rem;
+  top: -29px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.h2-102 {
+  position: relative;
+  top: -161.5rem;
+  right: -66rem;
+  color: #ffffff;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+}
+.lin {
+  width: 100px;
+  height: 1px;
+  background: #ffffff;
+  position: relative;
+  top: -162.4rem;
+  right: -66rem;
+}
+.car-section2 {
+  top: -34.8rem;
+  background: #ffffff;
+  width: 486px;
+  height: 483px;
+  position: relative;
+  right: -66.2rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+}
+.car-section6 {
+  background: #ffffff;
+  width: 486px;
+  height: 556px;
+  position: relative;
+  right: -35rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+  top: -93.8rem;
+}
+.car-section3 {
+  top: -33.8rem;
+  background: #ffffff;
+  width: 486px;
+  height: 483px;
+  position: relative;
+  right: -66.2rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+}
+.seltos-h24 {
+  position: relative;
+  top: 130px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  margin-left: 25px;
+}
+.seltos-h10 {
+  text-decoration: line-through #e0462d;
+  top: -101px;
+  position: relative;
+  right: -19rem;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+}
+.seltos-h4 {
+  text-decoration: line-through #e0462d;
+  top: 15px;
+  position: relative;
+  right: -19rem;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+}
+.seltos-h1-4 {
+  position: relative;
+  top: 90px;
+  right: -25px;
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  color: #e0462d;
+}
+.seltos-p5 {
+  position: relative;
+  top: 45px;
+  right: -25rem;
+}
+.seltos-p8 {
+  position: relative;
+  top: 120px;
+  right: -24px;
+}
+.car-section4 {
+  top: -32.8rem;
+  background: #ffffff;
+  width: 486px;
+  height: 564px;
+  position: relative;
+  right: -66.2rem;
+  box-shadow: 3px 4px 5px rgba(110, 30, 17, 0.21);
+  border-radius: 10px;
+}
+
+.seltos-p2 {
+  position: relative;
+  right: -390px;
+  top: -90px;
+}
+@media only screen and (max-width: 414px) {
+  .car-section5 {
+    display: none;
+  }
+  .container2 {
+    width: 385px;
+    height: 1931px;
+  }
+  .car-section1 {
+    width: 300px;
+    height: 331px;
+    position: relative;
+    right: -2rem;
+    top: 200px;
+  }
+  .car-section7 {
+    width: 300px;
+    height: 331px;
+    position: relative;
+    top: -32.6rem;
+    right: -30px;
+  }
+
+  .seltos,
+  .seltos9,
+  .seltos2 {
+    width: 253px;
+    height: 122px;
+    position: relative;
+    top: -90px;
+  }
+  .seltos2 {
+    position: relative;
+    top: 10px;
+    right: -20px;
+  }
+  .seltos9 {
+    position: relative;
+    top: 1rem;
+  }
+  .seltos-h1,
+  .seltos-h1-5,
+  .seltos-h23-3 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    position: relative;
+    top: -4rem;
+    right: 0.9rem;
+  }
+  .seltos-p3-2 {
+    position: relative;
+    top: -70px;
+    right: 14px;
+  }
+  .seltos-h23-3 {
+       position: relative;
+  }
+  .seltos-h1-5 {
+    position: relative;
+    top: 40px;
+  }
+  .seltos-h2-8 {
+    position: relative;
+    right: -25px;
+  }
+  .seltos-h1-7 {
+    position: relative;
+    top: -0.5rem;
+    right: 15px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .seltos-p2,
+  .seltos-p2-4 {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    position: relative;
+    top: -10rem;
+    right: -1rem;
+  }
+  .seltos-p2-4 {
+    position: relative;
+    top: -50px;
+    right: -11px;
+  }
+  .seltos-p1 {
+    position: relative;
+    top: -4rem;
+    right: 0.8rem;
+  }
+  .seltos-p1-4 {
+    position: relative;
+    width: 257px;
+    height: 18px;
+    top: 18px;
+    right: 14px;
+  }
+
+  .seltos-p1-5 {
+    width: 132px;
+    position: relative;
+    top: 10px;
+    right: 14px;
+    height: 28px;
+  }
+  .seltos4 {
+    width: 141px;
+    height: 67px;
+    top: 8px;
+    right: -2px;
+  }
+  .seltos-h1-1 {
+    position: relative;
+    top: -110px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    right: 15px;
+    width: 197px;
+    height: 35px;
+  }
+
+  .seltos-h1-6,
+  .seltos-h1-5 {
+    top: -15px;
+    right: 16px;
+
+    width: 197px;
+    height: 35px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+  }
+  .seltos-h1-5 {
+    position: relative;
+    top: -20px;
+  }
+  .seltos-h2 {
+    position: relative;
+    top: -7.7rem;
+    right: 0.8rem;
+  }
+  .seltos-h10 {
+    position: relative;
+    top: -7.7rem;
+    right: -1.2rem;
+  }
+  .seltos-h2-4,
+  .seltos-h2-8 {
+    position: relative;
+    top: -26px;
+    right: -10px;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  .seltos-h23 {
+    line-height: 100%;
+  }
+  .seltos-h2-4 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+  }
+  .car-section6,
+  .car-section3 {
+    width: 145px;
+    position: relative;
+    right: -2rem;
+    height: 246px;
+    top: 3.8rem;
+  }
+  .car-section3 {
+    top: 34.5rem;
+    position: relative;
+    right: -185px;
+  }
+
+  .car-section2 {
+    width: 145px;
+    height: 246px;
+    position: relative;
+    right: -2rem;
+    top: 13rem;
+    border-radius: 3px;
+  }
+
+  .seltos2-2,
+  .seltos6,
+  .seltos3 {
+    width: 143px;
+    height: 69px;
+    position: relative;
+    top: 10px;
+    right: 2px;
+  }
+  .seltos-h23,
+  .seltos-h24,
+  .seltos-h1-5 {
+    width: 117px;
+    height: 20px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    position: relative;
+    top: 1rem;
+    right: 15px;
+  }
+  .seltos-h24 {
+    position: relative;
+    top: 20px;
+    line-height: 100%;
+  }
+  .seltos-p3,
+  .seltos-p8 {
+    position: relative;
+    width: 132px;
+    height: 28px;
+    top: 1rem;
+    right: 1rem;
+  }
+  .seltos-h1-5 {
+    width: 152px;
+    height: 20px;
+    position: relative;
+    top: 30px;
+  }
+  .seltos-p8 {
+    position: relative;
+    top: 20px;
+    right: -10px;
+  }
+  .seltos-p4 {
+    position: relative;
+    right: 27.3rem;
+    top: -10rem;
+  }
+  .seltos-p2-4 {
+    position: relative;
+    top: -60px;
+  }
+  .seltos-p4-2 {
+    position: relative;
+    top: -170px;
+    right: -16px;
+  }
+  .h2-102 {
+    position: relative;
+    right: -2rem;
+    top: -16rem;
+  }
+  .lin {
+    position: relative;
+    top: -17rem;
+    width: 100px;
+    height: 1px;
+    color: #ffffff;
+    right: -2rem;
+  }
+  .car-section8 {
+    position: relative;
+    right: -2rem;
+    width: 300px;
+    height: 331px;
+    top: -16.5rem;
+    border-radius: 3px;
+  }
+  .seltos-h1-2,
+  .seltos-h1-4 {
+    top: -20px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    right: 16px;
+  }
+  .seltos-h1-4 {
+    position: relative;
+    right: -10px;
+  }
+  .seltos-h1-10 {
+    position: relative;
+    top: -100px;
+    right: -17px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 100%;
+  }
+
+  .seltos-h3,
+  .seltos-h4 {
+    position: relative;
+    top: -40px;
+    right: -11px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  .car-section4 {
+    width: 145px;
+    height: 246px;
+    position: relative;
+    right: -11.5rem;
+    top: -17.7rem;
+    border-radius: 3px;
+  }
+  .seltos-p5 {
+    position: relative;
+    top: -80px;
+    right: -10px;
+  }
+  .seltos-p4 {
+    position: relative;
+    top: -5.3rem;
+    right: -12px;
+  }
+}
